@@ -7,7 +7,7 @@ npm or yarn
 Installation
 
 Install the Ionic CLI globally on your machine by running npm install -g @ionic/cli or yarn global add @ionic/cli.
-Create a new Ionic Vue project by running ionic start my-app --type=ionic-angular.
+Create a new Ionic Vue project by running ionic start my-app --type=ionic-vue.
 Navigate to the project directory by running cd my-app.
 Install the required dependencies by running npm install or yarn install.
 
